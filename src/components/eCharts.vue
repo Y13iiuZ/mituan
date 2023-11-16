@@ -1,0 +1,3 @@
+<template>
+    ECharts
+</template>
