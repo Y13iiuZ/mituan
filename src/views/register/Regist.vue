@@ -51,6 +51,7 @@ export default {
                     showToast('用户已存在');
                     return;
                 }
+                register(value);
             }
             else {
                 register(value);
